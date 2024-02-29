@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Escola Infinito
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: 09
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O projeto consiste em fazer um sistema de presenças para uma escola do Fundamental 1 (1° ao 5° ano), que registra as faltas em salas contendo geralmente de 20 a 30 alunos. Haverá 1 professor principal em cada sala para ensinar as matérias de Matemática, Português, Artes, Ciências, História e Geografia, e mais alguns professores especificos para matérias adicionais como Inglês e Educação Física. A chamada deve ser realizada no começo e fim de aula, e é necessário a reprovação de alunos com menos de 75% de presença.
 
 # Documentação
 
