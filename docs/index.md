@@ -42,34 +42,33 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 # Análise de Requisitos Funcionais e Não-Funcionais
 
 
--Funcionais: 
+**Funcionais:** 
 
-.Registro de presença do inicio e após o intervalo
+-Registro de presença do inicio e após o intervalo
 
-.Gerenciador de faltas dos alunos por data, ano de ensino, diciplina e professor
+-Gerenciador de faltas dos alunos por data, ano de ensino, disciplina e professor
 
-.Identificação dos alunos com menos de 75% de presença
+-Identificação dos alunos com menos de 75% de presença
 
-.Notificação aos pais caso os alunos atendam menos de 80% de presença até o momento
+-Notificação aos pais caso os alunos atendam menos de 80% de presença até o momento
 
-.Acesso dos professores
+-Acesso dos professores
 
-.Adicionar e gerenciar informações novas
+-Adicionar e gerenciar informações novas
 
-.Suporte de diferentes navegadores
+-Suporte de diferentes navegadores
 
 
--Não Funcionais:
+**Não Funcionais:**
 
-.Accessibilidades
+-Accessibilidades
 
-.Usabilidade
+-Usabilidade
 
-.Segurança
+-Segurança
 
-.Confiabilidade
+-Confiabilidade
 
-.Manutenção
 
 # Diagrama de Atividades
 
