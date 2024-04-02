@@ -76,6 +76,7 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 
 
 # Diagrama de Casos de Uso
+![Captura de Tela (10)](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/dd122cc5-6743-4a39-9af0-82b256e1f568)
 
 
 # Descrição dos Casos de Uso
