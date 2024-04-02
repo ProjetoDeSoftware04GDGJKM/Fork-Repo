@@ -44,29 +44,29 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 
 **Funcionais:** 
 
--Registro de presença do inicio e após o intervalo
+-Registro de presença do inicio e após o intervalo.
 
--Gerenciador de faltas dos alunos por data, ano de ensino, disciplina e professor
+-Gerenciador de faltas dos alunos por data, ano de ensino, disciplina, professor ou aluno.
 
--Identificação dos alunos com menos de 75% de presença
+-Identificação e reprovação automática dos alunos com menos de 75% de presença.
 
--Notificação aos pais caso os alunos atendam menos de 80% de presença até o momento
+-Notificação aos pais caso os alunos atendam menos de 80% de presença até o momento.
 
--Acesso dos professores (principais e os demais) e do diretor da escola
+-Acesso dos professores (principais e os demais) e do diretor da escola.
 
--Adicionar e gerenciar informações novas como alunos
+-Adicionar e gerenciar informações novas (adicionar alunos, professores ou diretor no sitema).
 
 **Não Funcionais:**
 
--Suporte de diferentes navegadores
+-Suporte de diferentes navegadores.
 
--Accessibilidades
+-Accessibilidades.
 
--Usabilidade
+-Usabilidade.
 
--Segurança
+-Segurança.
 
--Confiabilidade
+-Confiabilidade.
 
 
 # Diagrama de Atividades
