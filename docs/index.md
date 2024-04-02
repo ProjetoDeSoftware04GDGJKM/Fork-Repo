@@ -37,7 +37,7 @@
 # Descrição do Projeto
 
 O projeto consiste em fazer um sistema de presenças para uma escola do Fundamental 1 (1° ao 5° ano), que registra as faltas em salas contendo geralmente de 20 a 30 alunos. Haverá 1 professor principal em cada sala para ensinar as matérias de Matemática, Português, Artes, Ciências, História e Geografia, e mais alguns professores especificos para matérias adicionais como Inglês e Educação Física. A chamada deve ser realizada no começo e fim de aula, e é necessário a reprovação de alunos com menos de 75% de presença.
-As necessidades requerem um sistema acessivel facil e intuitivo para os professores, que possa gerenciar a quantidade de faltas dos alunos, em relação a data, ano de ensino, diciplina e professor. Caso o aluno atenda menos que 80% de aulas dadas até o momento, uma notificação deve ser enviada para o e-mail registrado pelos pais. O projeto deve conter uma acessibilidade para todos os usuarios, como fonte ajustavel e acessibilidade a todos os navegadores e dispositivos.
+As necessidades requerem um sistema acessivel facil e intuitivo para os professores, que possa gerenciar a quantidade de faltas dos alunos, em relação a data, ano de ensino, disciplina e professor. Caso o aluno atenda menos que 80% de aulas dadas até o momento, uma notificação deve ser enviada para o e-mail registrado pelos pais. O projeto deve conter uma acessibilidade para todos os usuarios, como fonte ajustavel e acessibilidade a todos os navegadores e dispositivos.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 
@@ -52,14 +52,13 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 
 -Notificação aos pais caso os alunos atendam menos de 80% de presença até o momento
 
--Acesso dos professores
+-Acesso dos professores (principais e os demais) e do diretor da escola
 
--Adicionar e gerenciar informações novas
-
--Suporte de diferentes navegadores
-
+-Adicionar e gerenciar informações novas como alunos
 
 **Não Funcionais:**
+
+-Suporte de diferentes navegadores
 
 -Accessibilidades
 
@@ -72,15 +71,14 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
 
 # Diagrama de Sequência
 
