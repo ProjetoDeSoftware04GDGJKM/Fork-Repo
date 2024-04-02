@@ -71,6 +71,7 @@ As necessidades requerem um sistema acessivel facil e intuitivo para os professo
 
 # Diagrama de Atividades
 
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/fbee8a8c-1ca7-4bee-91b2-0bfcd0ecffa7)
 
 
 # Diagrama de Casos de Uso
