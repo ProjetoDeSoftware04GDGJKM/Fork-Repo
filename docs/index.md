@@ -69,7 +69,7 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Diagrama de Atividades
 
-![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/065310cf-d55b-4e1f-96bb-98d9690fd9b2)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/de5de653-dc5f-4702-b082-07c5af1d69da)
 
 
 
