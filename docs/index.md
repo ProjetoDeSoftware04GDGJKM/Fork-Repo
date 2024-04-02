@@ -74,7 +74,8 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 
 # Diagrama de Casos de Uso
-![Captura de Tela (10)](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/dd122cc5-6743-4a39-9af0-82b256e1f568)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/f39aeef3-6930-4ad2-922b-835b2a9b6f11)
+
 
 
 # Descrição dos Casos de Uso
