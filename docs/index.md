@@ -81,6 +81,13 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Descrição dos Casos de Uso
 
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/1be5418a-548e-4ae2-bf95-015fe9939fc1)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/b787d6bd-050d-4c46-bd42-3ee7f0488b6d)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/cb5ef73f-e66d-4c34-a40e-44cf1fa58388)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/2f68806c-bbd1-49ee-a488-36dd07e6b16f)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/19d0e0f6-c054-454c-8c0b-e37390c3ac1d)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/f0210fbd-3ad0-4bca-98c2-2c41e5d94600)
+
 
 
 # Diagrama de Sequência
