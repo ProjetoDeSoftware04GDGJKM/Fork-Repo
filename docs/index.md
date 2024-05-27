@@ -92,7 +92,7 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/06f99d2b-d13d-40ac-90fc-25204fdfcf6e)
 
 # Diagrama de Classes
 
