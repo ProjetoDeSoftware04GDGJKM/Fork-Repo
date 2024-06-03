@@ -96,7 +96,7 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Diagrama de Classes
 
-![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/92b744fe-1a76-4050-b90d-f5a5bc846007)
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/8a40f709-f5d8-425b-a0da-a4fbd338ec8f)
 
 # Diagrama de Estados
 
