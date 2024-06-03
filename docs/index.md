@@ -100,7 +100,8 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/ProjetoDeSoftware04GDGJKM/Fork-Repo/assets/161724637/dc1f26dd-c700-48ff-94f6-e9451e01dcb0)
+
 
 # Diagrama de Implantação
 
