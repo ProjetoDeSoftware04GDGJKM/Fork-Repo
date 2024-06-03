@@ -108,4 +108,7 @@ O projeto consiste em fazer um sistema de presenças para uma escola do Fundamen
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- Larman, Craig. Utilizando UML e padrões. Disponível em: Minha Biblioteca, (3rd edição). Grupo A, 2011.
+- Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.). 
+- SOMMERVILLE, I. Engenharia de software. 10. ed. São Paulo: Pearson Education do Brasil, 2018.
+- Slides do moodle
